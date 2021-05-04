@@ -10,4 +10,4 @@ Front-end developer and UX/UI designer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flitays&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: https://flitays.github.io/about/
+[website]: https://flitay.ml/
