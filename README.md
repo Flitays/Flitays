@@ -1,6 +1,6 @@
 ## Hello there, i am [Alexander][website] 🌓
 
-Front-end developer and UX/UI designer.
+UX/UI designer.
 <br />
 <br />
 
